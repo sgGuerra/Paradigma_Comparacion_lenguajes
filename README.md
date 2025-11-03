@@ -117,6 +117,4 @@ Para ello, realizar una presentación donde:
 > - Compare los 3 lenguajes e indicar cuál es el mejor para la solución al problema planteado, además de tener presente los diferentes puntos a evaluar descritos en la pdf. Tener presente que se debe realizar comparaciones numéricas, ejemplo Java ejecuta el ejercicio en 3 segundos, Vs Scala que lo hace en 5. Y así con cada punto que puedan comparar.
 > - Tener presente la presentación enviada, con el fin que se tome como base para los diferentes puntos que deben ser evaluados.
 
-> [!TIP]
-> ASFD
 ---
