@@ -107,3 +107,16 @@
 - [ ] Todas las comparaciones deben incluir números concretos y reproducibles, con método documentado.
 - [ ] Evitar dependencias externas que alteren la comparabilidad; si se usan (p. ej., framework web), usar equivalentes mínimos.
 - [ ] Mantener trazabilidad entre criterios del PDF y secciones de la presentación.
+
+
+----
+> [!NOTE]
+> Buenas, para los que no alcanzaron a ir a clase el día Jueves, un recorderis de la entrega del próximo Jueves 30 de Octubre:
+Realizar comparaciones de los 3 lenguajes (Java, Scala, Python), bajo el funcionamiento de una solución de automatización de pago de entradas y administración de atracciones de un parque de atracciones como el parque del café.
+Para ello, realizar una presentación donde:
+> - Compare los 3 lenguajes e indicar cuál es el mejor para la solución al problema planteado, además de tener presente los diferentes puntos a evaluar descritos en la pdf. Tener presente que se debe realizar comparaciones numéricas, ejemplo Java ejecuta el ejercicio en 3 segundos, Vs Scala que lo hace en 5. Y así con cada punto que puedan comparar.
+> - Tener presente la presentación enviada, con el fin que se tome como base para los diferentes puntos que deben ser evaluados.
+
+> [!TIP]
+> ASFD
+---
